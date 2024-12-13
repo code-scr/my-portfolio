@@ -612,5 +612,9 @@ nav .bx{
 		font-size: 31px;
 		padding-bottom: 0px;
 	}
+	.home-img .img-box .img-item {
+		
+		margin-top: 44px;
+	}
 
 }
